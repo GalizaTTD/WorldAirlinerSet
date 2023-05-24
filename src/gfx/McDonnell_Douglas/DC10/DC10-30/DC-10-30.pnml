@@ -474,7 +474,7 @@ item (FEAT_AIRCRAFT, Douglas_DC10_30)
     mail_capacity: 29;
     acceleration: 27;                  // in 27,75 mph/day
     range: 1910;
-    sound_effect: SOUND_JET;
+    sound_effect: SOUND_TAKEOFF_JET;
   }
   graphics {
     default: Douglas_DC10_30_sprites;
